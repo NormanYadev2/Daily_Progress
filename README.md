@@ -1,2 +1,19 @@
-# Daily_Progress
-Daily do one task that's related to ML
+# 📘 Daily Progress Tracker  
+
+This repository is a personal log of daily progress in learning and practicing **Machine Learning (ML)** and its prerequisites. The idea is to do at least one ML-related task every day.  
+
+---
+
+## 🚀 Progress Log  
+
+### ✅ Day 1  
+- Completed **8 Python questions** (core programming practice)  
+- Completed **5 Data Cleaning questions** using **Pandas** and **NumPy**  
+
+### ✅ Day 2  
+- Completed **7 Python questions**  
+- Completed **5 Data Cleaning questions**  
+
+### ✅ Day 3  
+- Completed **5 Python questions**  
+- Completed **1 Data Cleaning question** (covered all steps learned before)  
