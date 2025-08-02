@@ -6,18 +6,18 @@ This repository is a personal log of daily progress in learning and practicing *
 
 ## 🚀 Progress Log  
 
-### ✅ Day 1  
+### ✅ Day 1  (30th July 2025)
 - Completed **8 Python questions** (core programming practice)  
 - Completed **5 Data Cleaning questions** using **Pandas** and **NumPy**  
 
-### ✅ Day 2  
+### ✅ Day 2  (31st July 2025)
 - Completed **7 Python questions**  
 - Completed **5 Data Cleaning questions**  
 
-### ✅ Day 3  
+### ✅ Day 3  (1st Aug 2025)
 - Completed **5 Python questions**  
 - Completed **1 Data Cleaning question** (covered all steps learned before)  
 
-### ✅ Day 4
+### ✅ Day 4 (2nd Aug 2025)
 - Completed **5 Python questions**  
 - Completed **5 Data Cleaning question** 
