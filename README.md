@@ -17,3 +17,7 @@ This repository is a personal log of daily progress in learning and practicing *
 ### ✅ Day 3  
 - Completed **5 Python questions**  
 - Completed **1 Data Cleaning question** (covered all steps learned before)  
+
+### ✅ Day 4
+- Completed **5 Python questions**  
+- Completed **5 Data Cleaning question** 
