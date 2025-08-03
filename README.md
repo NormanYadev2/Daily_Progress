@@ -21,3 +21,7 @@ This repository is a personal log of daily progress in learning and practicing *
 ### ✅ Day 4 (2nd Aug 2025)
 - Completed **5 Python questions**  
 - Completed **5 Data Cleaning question** 
+
+### ✅ Day 4 (3rd Aug 2025)
+- Completed **5 Python questions**  
+- Completed **4 Data Cleaning question** 
