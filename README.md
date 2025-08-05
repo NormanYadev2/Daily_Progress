@@ -29,3 +29,7 @@ This repository is a personal log of daily progress in learning and practicing *
 ### ✅ Day 6 (4th Aug 2025)
 - Completed **1 Python question (implementing stack using array)**  
 - Completed **2 Data Cleaning question** 
+
+### ✅ Day 7 (5th Aug 2025)
+- Completed **1 Python question (implementing stack using Linked List)**  
+- Completed **1 Data Cleaning question (Handling Imbalanced data)** 
