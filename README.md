@@ -40,4 +40,8 @@ This repository is a personal log of daily progress in learning and practicing *
 
 ### ✅ Day 9 (7th Aug 2025)
 - Completed **1 Python question (twosum problem from leetcode)**  
-- Completed **1 Data Cleaning question (Handle Noisy data using window_size and rolling)** 
+- Completed **1 Data Cleaning question (Handle Noisy data using window_size and rolling)**
+
+### ✅ Day 10 (8th Aug 2025)
+- Completed **2 Python question (Patterns)**  
+- Completed **1 Data Cleaning question (Handle Heirarchial data)** 
