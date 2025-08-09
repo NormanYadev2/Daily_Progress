@@ -45,3 +45,6 @@ This repository is a personal log of daily progress in learning and practicing *
 ### ✅ Day 10 (8th Aug 2025)
 - Completed **2 Python question (Patterns)**  
 - Completed **1 Data Cleaning question (Handle Heirarchial data)** 
+
+### ✅ Day 11 (9th Aug 2025)
+- Completed **2 Data Cleaning question **
