@@ -52,3 +52,6 @@ This repository is a personal log of daily progress in learning and practicing *
 ### ✅ Day 12 (10th Aug 2025)
 - Completed  **2 Python question (solved a time complexity prob)**  
 - Completed **2 Data Cleaning question** 
+
+### ✅ Day 13 (11th Aug 2025) 
+- Completed **2 Data Cleaning question** 
