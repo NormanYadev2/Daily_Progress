@@ -53,7 +53,7 @@ This repository is a personal log of daily progress in learning and practicing *
 - Completed  **2 Python question (solved a time complexity prob)**
 
 ### ✅ Day 13 (11th Aug 2025)
-- Completed  **2 Python question (solved a time complexity prob)**  
+- Completed  **1 Python question (OOP)**  
 - Completed **2 Data Cleaning question** 
 
 ### ✅ Day 13 (11th Aug 2025) 
