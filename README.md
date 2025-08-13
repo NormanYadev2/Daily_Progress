@@ -58,3 +58,6 @@ This repository is a personal log of daily progress in learning and practicing *
 
 ### ✅ Day 14 (12th Aug 2025) 
 - Completed ** **1 Python question(OOP)** 
+
+### ✅ Day 15 (13th Aug 2025) 
+- Completed ** **1 Python question(Inheritence)** 
